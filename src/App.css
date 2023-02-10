@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.delete {
+  color: red;
+  cursor: pointer;
+}
+
+input:checked + span {
+  text-decoration: line-through;
+}
